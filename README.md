@@ -66,7 +66,7 @@ Enter a Number for a specific output:
 
 <br/>
 
-Type ```Tool-X` or ```toolx``` from anywhere in your terminal to open Tool-X.
+Type ```Tool-X``` or ```toolx``` from anywhere in your terminal to open Tool-X.
 
 ------------------------------------------------------------------------
 
