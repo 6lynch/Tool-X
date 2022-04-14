@@ -71,6 +71,23 @@ Open Tool-X and type ```rm -T` or `uninstall tool-x``` to uninstall Tool-X.
 
 ------------------------------------------------------------------------
 
+ <p align="center">
+<a href="https://github.com/Error-4-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/channel/UCfjJgu6-VQPvcgRaygLyhqQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Error 4 You-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/h4ck199"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+
+<a href="https://chat.whatsapp.com/FkcQ98SucwgK1TbTfGWzsR">![TikTok](https://img.shields.io/badge/H4CK.LK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=FF0F00)</a>
+</p>
+
 **Warning**
 
-We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+<p>We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!<p>
+
+<p>This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.</p>
+
+ 2022 © - Error-4-You
+
